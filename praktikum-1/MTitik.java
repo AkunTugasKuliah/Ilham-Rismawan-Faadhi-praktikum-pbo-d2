@@ -1,3 +1,7 @@
+//File : MTitik.java          21/02/24
+//Penulis : Naufal Dzaki Imtiyaz
+//NIM     : 24060122140182
+//Deskripsi : Menjalankan dan melakukan instansi 3 titik
 public class MTitik {
     public static void main(String[] args) {
         titik t1;

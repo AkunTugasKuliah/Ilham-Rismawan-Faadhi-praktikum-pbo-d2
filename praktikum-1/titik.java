@@ -1,3 +1,7 @@
+//File : Titik.java          21/02/24
+//Penulis : Naufal Dzaki Imtiyaz
+//NIM     : 24060122140182
+//Deskripsi : Kelas Titik yang merupakan sebuah titik dengan absis dan ordinat
 class titik {
     double absis;
     double ordinat;
