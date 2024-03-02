@@ -1,7 +1,7 @@
 /* File: Student.java        01/03/24
  * Penulis: Ilham Rismawan Faadhi
  * NIM: 24060122140182
- * Deskripsi: Mendefinisikan kelas Student yang mencakup properti dan metode untuk merepresentasikan mahasiswa di Departemen Informatika. Propertinya dienkapsulasi, dan terdapat fungsi untuk mendaftar dan melihat mata kuliah yang diambil.
+ * Deskripsi: Mendefinisikan kelas Student yang mencakup properti dan metode untuk merepresentasikan siswa
  */
 import java.util.ArrayList;
 import java.util.List;
