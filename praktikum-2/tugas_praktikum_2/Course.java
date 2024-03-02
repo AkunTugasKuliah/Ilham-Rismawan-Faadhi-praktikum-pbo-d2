@@ -1,7 +1,7 @@
 /* File: Course.java         01/03/24
  * Penulis: Ilham Rismawan Faadhi
  * NIM: 24060122140182
- * Deskripsi: Mendefinisikan kelas Course yang mencakup properti dan metode untuk merepresentasikan mata kuliah di Departemen Informatika. Terdapat enkapsulasi pada propertinya dan fungsi untuk mengelola mahasiswa yang terdaftar.
+ * Deskripsi: Mendefinisikan kelas Course yang mencakup properti dan metode untuk merepresentasikan mata kuliah.
  */
 import java.util.ArrayList;
 import java.util.List;
