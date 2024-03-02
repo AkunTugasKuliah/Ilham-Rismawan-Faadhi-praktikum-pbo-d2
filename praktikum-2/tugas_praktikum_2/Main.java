@@ -1,7 +1,7 @@
 /* File: Main.java           01/03/24
  * Penulis: Ilham Rismawan Faadhi
  * NIM: 24060122140182
- * Deskripsi: Program utama (driver) yang menciptakan instance dari kelas Course, Student, dan Lecture untuk menunjukkan interaksi antar mereka. Objek-objek tersebut diinisialisasi dan dijalankan dengan contoh operasi pada Departemen Informatika.
+ * Deskripsi: Program utama (driver) yang menciptakan instance dari kelas Course, Student, dan Lecture untuk menunjukkan interaksi antar mereka.
  */
 public class Main {
     public static void main(String[] args) {
